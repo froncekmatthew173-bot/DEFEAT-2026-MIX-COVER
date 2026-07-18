@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "OG_Black_vent Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "vent",
+			"loop": false,
+			"name": "OG_Black_vent Vent"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/OG_Black_vent",
+	"position": [
+		71,
+		-84
+	],
+	"healthicon": "blackold",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		43,
+		43
+	],
+	"camera_position": [
+		-18,
+		58
+	],
+	"sing_duration": 6.1,
+	"scale": 1.25
+}
