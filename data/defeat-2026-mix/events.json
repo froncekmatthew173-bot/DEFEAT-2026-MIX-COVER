@@ -179,7 +179,7 @@
 			29100,
 			[
 				["Change Character", "Dad", "black"],
-				["Change Character", "BF", "bf-defeat-scared"]
+				["Change Character", "BF", "O!Cathie"]
 			]
 		],
 		[
@@ -193,7 +193,7 @@
 			29100,
 			[
 				["Change Character", "Dad", "black"],
-				["Change Character", "BF", "bf-defeat-scared"],
+				["Change Character", "BF", "O!Cathie"],
 				["Flash Camera", "1", "FF0000"]
 			]
 		],
@@ -2044,13 +2044,13 @@
 		[
 			112800,
 			[
-				["Change Character", "BF", "bf"]
+				["Change Character", "BF", "Other"]
 			]
 		],
 		[
 			112800,
 			[
-				["Change Character", "BF", "bf"],
+				["Change Character", "BF", "Other"],
 				["Change Character", "Dad", "blackold"],
 				["Cinematics (With HUD)", "2", "0"],
 				["Cinematics", "2", "2"]
@@ -2313,14 +2313,14 @@
 		[
 			134400,
 			[
-				["Change Character", "BF", "bf-defeat-scared"],
+				["Change Character", "BF", "O!Cathie"],
 				["Change Character", "Dad", "black"]
 			]
 		],
 		[
 			134400,
 			[
-				["Change Character", "BF", "bf-defeat-scared"],
+				["Change Character", "BF", "O!Cathie"],
 				["Flash Camera", "1", "FF0000"],
 				["Cinematics", "2", "1"],
 				["Split Screen", "1,quintOut", ""]
@@ -4134,7 +4134,7 @@
 			[
 				["Flash Camera", "1", "FF0000"],
 				["Change Character", "dad", "blackold"],
-				["Change Character", "bf", "bf"]
+				["Change Character", "bf", "Other"]
 			]
 		],
 		[
@@ -4176,7 +4176,7 @@
 		[
 			227400,
 			[
-				["Change Character", "bf", "bf-defeat-scared"],
+				["Change Character", "bf", "O!Cathie"],
 				["Change Character", "dad", "black"],
 				["Set Cam Zoom", "0.8", "0.2"],
 				["tweenAngle", "5", ""]
