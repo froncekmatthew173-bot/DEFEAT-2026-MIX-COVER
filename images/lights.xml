@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lights.png">
+<SubTexture name="lights beat0000" x="0" y="1575" width="2298" height="986" frameX="-251" frameY="-412" frameWidth="2800" frameHeight="1575" />
+<SubTexture name="lights beat0001" x="2800" y="0" width="2108" height="891" frameX="-346" frameY="-460" frameWidth="2800" frameHeight="1575" />
+<SubTexture name="lights beat0002" x="2800" y="891" width="1956" height="836" frameX="-422" frameY="-483" frameWidth="2800" frameHeight="1575" />
+<SubTexture name="lights beat0003" x="2800" y="1727" width="1880" height="796" frameX="-460" frameY="-507" frameWidth="2800" frameHeight="1575" />
+<SubTexture name="lights beat0004" x="0" y="2561" width="1509" height="633" frameX="-636" frameY="-586" frameWidth="2800" frameHeight="1575" />
+<SubTexture name="lights beat0005" x="0" y="0" width="2800" height="1575" frameX="0" frameY="0" frameWidth="2800" frameHeight="1575" />
+</TextureAtlas>
