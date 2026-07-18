@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OG_Black_vent.png">
+<SubTexture name="OG_Black_vent Idle0000" x="1446" y="1019" width="359" height="126" frameX="-6" frameY="-598" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0000" x="1446" y="1019" width="359" height="126" frameX="-6" frameY="-598" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0001" x="544" y="1232" width="359" height="125" frameX="-6" frameY="-592" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0002" x="718" y="0" width="364" height="658" frameX="-5" frameY="-51" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0003" x="0" y="0" width="359" height="686" frameX="-6" frameY="-19" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0004" x="359" y="0" width="359" height="670" frameX="-6" frameY="-11" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0005" x="1082" y="0" width="364" height="657" frameX="-5" frameY="-9" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0006" x="1446" y="510" width="364" height="509" frameX="-5" frameY="-8" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0007" x="1446" y="0" width="364" height="510" frameX="-5" frameY="-8" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0008" x="1000" y="686" width="272" height="512" frameX="-37" frameY="-8" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0009" x="728" y="686" width="272" height="519" frameX="-37" frameY="-6" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0010" x="364" y="686" width="364" height="534" frameX="-5" frameY="-1" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0011" x="0" y="1232" width="272" height="509" frameX="-37" frameY="-126" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0012" x="0" y="686" width="364" height="546" frameX="-5" frameY="-139" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0013" x="272" y="1232" width="272" height="508" frameX="-37" frameY="-177" frameWidth="375" frameHeight="725" />
+<SubTexture name="OG_Black_vent Vent0014" x="0" y="1232" width="272" height="509" frameX="-37" frameY="-176" frameWidth="375" frameHeight="725" />
+</TextureAtlas>

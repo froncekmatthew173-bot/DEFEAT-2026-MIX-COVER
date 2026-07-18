@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OG_Black.png">
+<SubTexture name="OG_Black Idle0000" x="529" y="0" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Idle0001" x="1616" y="1007" width="273" height="499" frameX="-6" frameY="-18" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Idle0002" x="286" y="1530" width="274" height="499" frameX="-6" frameY="-18" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Idle0003" x="1099" y="1021" width="273" height="505" frameX="-6" frameY="-12" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Idle0004" x="272" y="1021" width="273" height="507" frameX="-6" frameY="-10" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Left0000" x="0" y="0" width="261" height="512" frameX="-5" frameY="-5" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Left0001" x="261" y="0" width="268" height="510" frameX="-3" frameY="-7" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Left0002" x="801" y="0" width="271" height="509" frameX="-2" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Left0003" x="0" y="512" width="271" height="509" frameX="-3" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Down0000" x="545" y="1021" width="277" height="507" frameX="-6" frameY="-10" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Down0001" x="1616" y="0" width="277" height="505" frameX="-6" frameY="-12" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Down0002" x="822" y="1021" width="277" height="507" frameX="-6" frameY="-10" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Down0003" x="271" y="512" width="276" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Up0000" x="1110" y="1530" width="259" height="493" frameX="-19" frameY="-24" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Up0001" x="851" y="1530" width="259" height="498" frameX="-19" frameY="-19" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Up0002" x="1893" y="1002" width="259" height="500" frameX="-19" frameY="-17" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Up0003" x="1616" y="505" width="259" height="502" frameX="-19" frameY="-15" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Right0000" x="560" y="1530" width="291" height="499" frameX="-9" frameY="-18" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Right0001" x="0" y="1530" width="286" height="500" frameX="-7" frameY="-17" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Right0002" x="1893" y="0" width="281" height="501" frameX="-9" frameY="-16" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black Right0003" x="1893" y="501" width="280" height="501" frameX="-9" frameY="-16" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0000" x="547" y="512" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0001" x="1072" y="0" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0002" x="1072" y="509" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0003" x="1344" y="0" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0004" x="1344" y="509" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0005" x="0" y="1021" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+<SubTexture name="OG_Black In0006" x="529" y="0" width="272" height="509" frameX="-6" frameY="-8" frameWidth="300" frameHeight="520" />
+</TextureAtlas>
