@@ -1,0 +1,16 @@
+[
+	{
+		"save": "BBlack",
+		"name": "Back Black",
+		"type": "bgil",
+		"description": "A black shape appears behind the notes to make them easier to see.",
+		"value": false
+	},
+	{
+		"save": "jd",
+		"name": "Judgment display",
+		"type": "bgil",
+		"description": "Judgment display will be displayed on the left side of the screen.",
+		"value": false
+	}
+]

@@ -1,0 +1,15 @@
+DEFEAT 2026 MIX
+yu-kun::yu-kun::DIRECTOR\nArtist, Animator, Composer, Charter, Coder::https://x.com/2020yu_kun::cc00ff
+Tk-Guriko::grk::CO-DIRECTOR\nArtist, VA::https://x.com/tanaka_grk::ff0061
+Coral::coral::Animator::https://x.com/Coral_1212fnf::465a75
+Otkarez::otkarez::Coder::https://x.com/Otkarez::fd302f
+Voider_::voider::Difficulty Hard's Charter::https://x.com/Voider_01::427c65
+C.K::ck::Difficulty Insane's Charter::https://x.com/Carb_Kali1::b5b5b5
+Buruaru::brar::Artist::https://x.com/Sussusburuaru2::2623ff
+kokosan::kokosan::Artist::https://x.com/kokosan_MTKU::ff76b4
+
+Special Thanks
+IMPOSTORM::vi::The OG Vs Impostor MOD development team::https://vsimpostor.com/::6534a0
+BFDI 26 Team::yoy::Trail Script,RGB Script::https://x.com/Yoylefake::A04C3B
+Analog Funkin Team::Umbra::Bloom Shader::https://x.com/ANLGFunkin::242630
+Due Debts (BF Mix) Team::2hot::Split Screen Event::https://gamebanana.com/mods/575991::735EB0
